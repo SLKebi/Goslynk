@@ -1,1 +1,1 @@
-# Goslynk
+# SLK BUILD GOslynk Partner
